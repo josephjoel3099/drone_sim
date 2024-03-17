@@ -1,0 +1,8 @@
+hector_quadrotor/hector_quadrotor_actions
+/home/joel/drone/devel/.private/hector_quadrotor_actions/cmake.lock /home/joel/drone/devel/./cmake.lock
+/home/joel/drone/devel/.private/hector_quadrotor_actions/lib/pkgconfig/hector_quadrotor_actions.pc /home/joel/drone/devel/lib/pkgconfig/hector_quadrotor_actions.pc
+/home/joel/drone/devel/.private/hector_quadrotor_actions/lib/hector_quadrotor_actions/takeoff_action /home/joel/drone/devel/lib/hector_quadrotor_actions/takeoff_action
+/home/joel/drone/devel/.private/hector_quadrotor_actions/lib/hector_quadrotor_actions/pose_action /home/joel/drone/devel/lib/hector_quadrotor_actions/pose_action
+/home/joel/drone/devel/.private/hector_quadrotor_actions/lib/hector_quadrotor_actions/landing_action /home/joel/drone/devel/lib/hector_quadrotor_actions/landing_action
+/home/joel/drone/devel/.private/hector_quadrotor_actions/share/hector_quadrotor_actions/cmake/hector_quadrotor_actionsConfig.cmake /home/joel/drone/devel/share/hector_quadrotor_actions/cmake/hector_quadrotor_actionsConfig.cmake
+/home/joel/drone/devel/.private/hector_quadrotor_actions/share/hector_quadrotor_actions/cmake/hector_quadrotor_actionsConfig-version.cmake /home/joel/drone/devel/share/hector_quadrotor_actions/cmake/hector_quadrotor_actionsConfig-version.cmake

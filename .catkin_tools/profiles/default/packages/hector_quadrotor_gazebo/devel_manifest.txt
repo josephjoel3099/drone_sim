@@ -1,0 +1,5 @@
+hector_quadrotor/hector_quadrotor_gazebo
+/home/joel/drone/devel/.private/hector_quadrotor_gazebo/cmake.lock /home/joel/drone/devel/./cmake.lock
+/home/joel/drone/devel/.private/hector_quadrotor_gazebo/lib/pkgconfig/hector_quadrotor_gazebo.pc /home/joel/drone/devel/lib/pkgconfig/hector_quadrotor_gazebo.pc
+/home/joel/drone/devel/.private/hector_quadrotor_gazebo/share/hector_quadrotor_gazebo/cmake/hector_quadrotor_gazeboConfig-version.cmake /home/joel/drone/devel/share/hector_quadrotor_gazebo/cmake/hector_quadrotor_gazeboConfig-version.cmake
+/home/joel/drone/devel/.private/hector_quadrotor_gazebo/share/hector_quadrotor_gazebo/cmake/hector_quadrotor_gazeboConfig.cmake /home/joel/drone/devel/share/hector_quadrotor_gazebo/cmake/hector_quadrotor_gazeboConfig.cmake
