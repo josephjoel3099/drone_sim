@@ -9,6 +9,7 @@ https://wiki.ros.org/noetic/Installation/Ubuntu
 
 ### 2. Clone git repo
 ```
+cd
 git clone https://github.com/josephjoel3099/drone_sim.git
 ```
 
