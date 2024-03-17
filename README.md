@@ -47,12 +47,12 @@ Need to research
 ```
 
 
-## Authors
+## 3. Authors
 
 - [@josephjoel3099](https://www.github.com/josephjoel3099)
 
 
-## License
+## 4. License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
