@@ -2,7 +2,7 @@
 
 ## 1. To run
 
-### 1. Install ROS-Noetics
+### 1. Install ROS-Noetic
 ```
 https://wiki.ros.org/noetic/Installation/Ubuntu
 ```
