@@ -36,9 +36,13 @@ cd drone_sim
 roslaunch hector_quadrotor_gazebo spawn_quadrotor.launch
 ```
 
-### 6. Teleop
+### 6. Teleop (new terminal)
 ```
-Not setup
+cd
+cd drone_sim
+. devel/setup.bash
+rosservice call /enable_motors "enable: true"
+rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 ```
 
 
