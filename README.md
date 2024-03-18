@@ -42,7 +42,7 @@ cd
 cd drone_sim
 . devel/setup.bash
 rosservice call /enable_motors "enable: true"
-rosrun teleop_twist_keyboard teleop_twist_keyboard.py
+rosrun hector_keyboard_teleop hector_keyboard_teleop.py
 ```
 
 
