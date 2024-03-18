@@ -2,13 +2,14 @@
 
 ## 1. To run
 
-### 1. Install ROS-Noetics
+### 1. Install ROS-Noetic
 ```
 https://wiki.ros.org/noetic/Installation/Ubuntu
 ```
 
 ### 2. Clone git repo
 ```
+cd
 git clone https://github.com/josephjoel3099/drone_sim.git
 ```
 
@@ -35,9 +36,13 @@ cd drone_sim
 roslaunch hector_quadrotor_gazebo spawn_quadrotor.launch
 ```
 
-### 6. Teleop
+### 6. Teleop (new terminal)
 ```
-Not setup
+cd
+cd drone_sim
+. devel/setup.bash
+rosservice call /enable_motors "enable: true"
+rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 ```
 
 
@@ -47,12 +52,12 @@ Need to research
 ```
 
 
-## Authors
+## 3. Authors
 
 - [@josephjoel3099](https://www.github.com/josephjoel3099)
 
 
-## License
+## 4. License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
