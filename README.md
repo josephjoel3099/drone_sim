@@ -38,6 +38,7 @@ roslaunch hector_quadrotor_gazebo spawn_quadrotor.launch
 
 ### 6. Teleop (new terminal)
 ```
+sudo apt install ros-noetic-teleop-twist-keyboard -y
 cd
 cd drone_sim
 . devel/setup.bash
